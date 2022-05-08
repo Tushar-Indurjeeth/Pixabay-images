@@ -1,4 +1,4 @@
-# Pixaby Free Images
+# Pixabay Free Images
 
 A fully responsive website to view free images from the Pixaby API, built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -8,7 +8,7 @@ A fully responsive website to view free images from the Pixaby API, built using 
 
 ## How it works
 
-- The data is pulled through using the [Pixaby API](https://pixabay.com/api/docs/).
+- The data is pulled through using the [Pixabay API](https://pixabay.com/api/docs/).
 - Pages are sever side rendered.
 - Select different options in the navbar to view the different image types.
 - Click on an image to view the details about the image
