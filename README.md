@@ -7,7 +7,7 @@ A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tai
 ## How it works
 - The data is pulled through using the [Pixaby API](https://pixabay.com/api/docs/).
 - Pages are sever side rendered.
-- Select different options in the top to view the different image types.
+- Select different options in the navbar to view the different image types.
 - Click on an image to view the details about the image
 - Website is fully responsive for different screen sizes.
 
