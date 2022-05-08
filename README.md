@@ -1,6 +1,6 @@
 # Pixabay Free Images
 
-A fully responsive website to view free images from the Pixaby API, built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+A fully responsive website to view free images from the Pixabay API, built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
 
