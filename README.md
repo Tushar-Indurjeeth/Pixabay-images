@@ -4,7 +4,7 @@ A fully responsive website to view free images from the Pixabay API, built using
 
 ## Live demo
 
-[https://pixaby-images.vercel.app/all](https://pixaby-images.vercel.app/all)
+[https://pixabay-images.vercel.app/all](https://pixabay-images.vercel.app/all)
 
 ## How it works
 
