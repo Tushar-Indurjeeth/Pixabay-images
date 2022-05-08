@@ -1,6 +1,6 @@
 # Pixaby Free Images
 
-A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+A fully responsive website to view free images from the Pixaby API, built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
 []()
