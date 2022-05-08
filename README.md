@@ -1,4 +1,5 @@
 # Pixaby Free Images
+
 A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo

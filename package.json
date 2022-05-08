@@ -10,7 +10,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@bakunya/react-masonry": "^0.0.5",
     "@headlessui/react": "^1.6.1",
     "@heroicons/react": "^1.0.6",
     "better-react-spinkit": "^2.0.4",
