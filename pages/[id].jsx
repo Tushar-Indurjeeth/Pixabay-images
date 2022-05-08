@@ -6,10 +6,10 @@ export default function Home({ data }) {
   return (
     <div>
       <Head>
-        <title>Pixaby Free Images</title>
+        <title>Pixabay Free Images</title>
         <meta
           name="description"
-          content="Pixaby Free Images built built by Tushar Indurjeeth"
+          content="Pixabay Free Images built built by Tushar Indurjeeth"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
