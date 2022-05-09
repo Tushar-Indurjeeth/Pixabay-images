@@ -4,7 +4,7 @@ A fully responsive website to view free images from the Pixabay API, built using
 
 ## Live demo
 
-[https://pixabay-images.vercel.app/all](https://pixabay-images.vercel.app/all)
+[https://storied-gaufre-e32316.netlify.app/all](https://storied-gaufre-e32316.netlify.app/all)
 
 ## How it works
 
@@ -25,7 +25,7 @@ A fully responsive website to view free images from the Pixabay API, built using
 
 ## Platform
 
-Hosted through [Vercel](https://vercel.com/).
+Hosted through [Netlify](https://www.netlify.com/).
 
 ## License
 
