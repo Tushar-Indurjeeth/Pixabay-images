@@ -18,7 +18,7 @@ A fully responsive website to view free images from the Pixabay API, built using
 
 - [NextJs](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Headlesss UI](https://headlessui.dev/)
+- [Headless UI](https://headlessui.dev/)
 - [Hero Icons](https://heroicons.com/)
 - [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component)
 - [better-react-spinkit](https://www.npmjs.com/package/better-react-spinkit)
